@@ -7,6 +7,7 @@ author: Kamesuta
 github_username: Numa-Lab
 timezone: Japan
 url: "https://www.numalab.net" # the base hostname & protocol for your site
+baseurl: "/"
 
 logo: #optional, defaults to site title
   path: /assets/img/logo.png
