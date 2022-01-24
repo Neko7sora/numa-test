@@ -5,6 +5,8 @@ title: 沼Lab
 description: 沼Labは沼勢によるプログラミングを使ってKUNチャンネルのネタを制作するコミュニティです。
 author: Kamesuta
 github_username: Numa-Lab
+timezone: Japan
+url: "https://www.numalab.net" # the base hostname & protocol for your site
 
 logo: #optional, defaults to site title
   path: /assets/img/logo.png
