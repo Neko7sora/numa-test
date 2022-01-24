@@ -24,4 +24,3 @@ markdown: kramdown
 
 plugins:
   - jekyll-remote-theme
-  - "jekyll-github-metadata"
