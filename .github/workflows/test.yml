@@ -11,6 +11,10 @@ jobs:
     steps:
     - uses: actions/checkout@v2
 
+    - name: remove files
+      run: |
+        rm -r -f -v  Gemfile.lock
+
     - uses:  helaili/jekyll-action@v2
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
